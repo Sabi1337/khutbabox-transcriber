@@ -1,0 +1,6 @@
+flask
+sounddevice
+soundfile
+openai-whisper
+torch
+argostranslate
